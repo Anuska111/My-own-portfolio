@@ -1,2 +1,2 @@
 # My-own-portfolio
-This is my first repository
+this is my first portfolio. its too nice to get knowlegde from "devtown tailwind css series" and also work on devtown assignment. and along with this i also get knowlegde about git hub but not set properly so i can share only giit hub link for see my readme but index.html i can't add due to lag of knowlege aboput github . but from my this project i learn a lot about advance css tailwind css types of padding margin and adding hover and bg color is the best part of this i think because i like how sir designed the project section adding hover. thank you for your 5 days couse. i want to attend other web development course like that and also want to do some small assignment like that
